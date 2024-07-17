@@ -1,0 +1,6 @@
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\ConsoleSnake.exe
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\FodyWeavers.xml
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\ConsoleSnake.dll
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\ConsoleSnake.deps.json
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\ConsoleSnake.runtimeconfig.json
+C:\Users\Aleksey_Grabelnikov\source\repos\ConsoleSnake\ConsoleSnake\bin\Release\net8.0\publish\ConsoleSnake.pdb
